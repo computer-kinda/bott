@@ -5,6 +5,6 @@
   "main": "app.js",
   "author": "Kennedy Martins / KillerDogs",
   "dependencies": {
-    "discord.js": "^12.2.0"
+    "discord.js": "^12.5.3"
   }
 }
